@@ -1,6 +1,6 @@
-package com.DataStructuresAndalgorithms.unit03.LinkedList;
+package com.milo.unit03.LinkedList;
 
-import com.DataStructuresAndalgorithms.unit03.Node;
+import com.milo.unit03.Node;
 
 /**
  * 版权所有(C) 2017 上海银路投资管理有限公司

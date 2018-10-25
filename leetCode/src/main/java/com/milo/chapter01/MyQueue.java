@@ -1,4 +1,4 @@
-package com.leetcode.chapter01;
+package com.milo.chapter01;
 
 import java.util.ArrayList;
 import java.util.List;

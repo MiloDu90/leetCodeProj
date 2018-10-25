@@ -1,6 +1,6 @@
-package com.DataStructuresAndalgorithms.unit04_stock.queueImpl;
+package com.milo.unit04_stock.queueImpl;
 
-import com.DataStructuresAndalgorithms.unit03.LinkedList.SLNode;
+import com.milo.unit03.LinkedList.SLNode;
 
 /**
  * 版权所有(C) 2017 上海银路投资管理有限公司

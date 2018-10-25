@@ -1,6 +1,6 @@
-package com.leetcode.chapter02;
+package com.milo.chapter02;
 
-import com.leetcode.chapter01.MyQueue;
+import com.milo.chapter01.MyQueue;
 
 import java.util.Queue;
 

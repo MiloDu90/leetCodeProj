@@ -1,7 +1,7 @@
-package com.DataStructuresAndalgorithms.unit04_stock.stackImpl;
+package com.milo.unit04_stock.stackImpl;
 
-import com.DataStructuresAndalgorithms.unit04_stock.StackInterface.Stack;
-import com.DataStructuresAndalgorithms.unit04_stock.StackInterface.StackEmptyException;
+import com.milo.unit04_stock.StackInterface.Stack;
+import com.milo.unit04_stock.StackInterface.StackEmptyException;
 
 /**
  * 版权所有(C) 2017 上海银路投资管理有限公司

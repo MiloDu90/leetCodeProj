@@ -1,6 +1,6 @@
-package com.DataStructuresAndalgorithms.unit03.linearList;
+package com.milo.unit03.linearList;
 
-import com.DataStructuresAndalgorithms.unit03.Strategy;
+import com.milo.unit03.Strategy;
 
 import java.util.Collection;
 import java.util.Iterator;
