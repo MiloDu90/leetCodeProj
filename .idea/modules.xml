@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataStructuresAndDalgorithms/DataStructuresAndDalgorithms.iml" filepath="$PROJECT_DIR$/DataStructuresAndDalgorithms/DataStructuresAndDalgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrowsOffer/arrowsOffer.iml" filepath="$PROJECT_DIR$/arrowsOffer/arrowsOffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetCodeProj.iml" filepath="$PROJECT_DIR$/.idea/leetCodeProj.iml" />
     </modules>
