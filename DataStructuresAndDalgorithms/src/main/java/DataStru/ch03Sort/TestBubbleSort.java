@@ -13,12 +13,12 @@ public class TestBubbleSort {
     public static void main(String[] args) {
         int[] arr = new int[]{2, 4, 7, 4, 1, 9, 6, 5};
         System.out.println(Arrays.toString(arr));
-        arr = bubbleSort(arr);
+        bubbleSort(arr);
         System.out.println(Arrays.toString(arr));
     }
 
     //冒泡排序,
-    public static int[] bubbleSort(int[] arr) {
+    public static void bubbleSort(int[] arr) {
         //控制共比较多少轮（外层）
         for (int i = 0; i < arr.length - 1; i++) {
             //控制比较的次数，每次比较完最大的值放在最后面
@@ -30,6 +30,5 @@ public class TestBubbleSort {
                 }
             }
         }
-        return arr;
     }
 }
